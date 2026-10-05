@@ -1,0 +1,12 @@
+add_newline = true
+
+[character]
+success_symbol = '[](blue) '
+error_symbol = '''
+
+[](blue) '''
+
+[status]
+symbol = '‼️'
+pipestatus = true
+disabled = false
